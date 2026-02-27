@@ -4,7 +4,7 @@ This is my second independent project built during my web development journey wi
 
 ## 🔗 Live Demo
 
-View the project live on Netlify: https://magenta-pithivier-bf6942.netlify.app/
+View the project live on Netlify: https://workout-tracker-julian.netlify.app/
 
 ## 🛠️ Tech Stack
 
